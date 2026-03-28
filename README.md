@@ -34,7 +34,7 @@ This project focuses on developing essential digital literacy skills required fo
 ### 💻 task-3-platforms/
 - Platform activity screenshots  
 - Notes on usage and importance of each platform  
-
+- LINK FOR QUIZ : https://forms.gle/qVG2d7cfVLe2P3XM7
 ---
 
 ### 📧 task-4-email-etiquette/
